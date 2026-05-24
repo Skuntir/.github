@@ -1,8 +1,8 @@
 
 <div align="center">
   
-  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6575be29-2478-490e-aaee-97c397a9c439"  width="1000" />
 
+<img width="1920" height="1080" alt="og-image" src="https://github.com/user-attachments/assets/7f6c60c3-c9b4-414e-9585-2217a3294976" />
 
   <p align="center">
     <br />
