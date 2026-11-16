@@ -1,8 +1,9 @@
 
 <div align="center">
-  
 
-<img width="1920" height="1080" alt="og-image" src="https://github.com/user-attachments/assets/7f6c60c3-c9b4-414e-9585-2217a3294976" />
+  <img width="1920" height="1080" alt="skuntir-bg-inverted" src="https://github.com/user-attachments/assets/65879499-1a0d-4e4b-9b49-63b49725c6b3" />
+
+
 
   <p align="center">
     <br />
